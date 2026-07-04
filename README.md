@@ -1,6 +1,6 @@
-# Samaritan GPT
+# Samaritan
 
-Samaritan GPT is a proof of concept project inspired by the 'Person of Interest' television show. It is designed to mimic the Samaritan artificial intelligence from the series. The project can be connected to either the OpenAI API or the Ollama API for personal use with model files that help set up the Samaritan character.
+Samaritan is a proof of concept project inspired by the 'Person of Interest' television show. It is designed to mimic the Samaritan artificial intelligence from the series. The project can be connected to either the OpenAI API or the Ollama API for personal use with model files that help set up the Samaritan character.
 
 ![UI Preview](public/image.png)
 
@@ -12,7 +12,7 @@ Samaritan GPT is a proof of concept project inspired by the 'Person of Interest'
 
 ## Getting Started
 
-To get started with the Samaritan GPT project, follow these steps:
+To get started with the Samaritan project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/MrBlackBrain/Samaritan-GPT.git`
 2. Install dependencies: `npm install`
@@ -21,7 +21,7 @@ To get started with the Samaritan GPT project, follow these steps:
 
 ## Usage
 
-To use Samaritan GPT, you can connect it to the OpenAI API or the Ollama API by providing the necessary API keys and configuring the API endpoints in the project.
+To use Samaritan, you can connect it to the OpenAI API or the Ollama API by providing the necessary API keys and configuring the API endpoints in the project.
 
 ## Contributors
 

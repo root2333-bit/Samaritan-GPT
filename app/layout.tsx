@@ -11,7 +11,7 @@ const magdacleanmono = localFont({
 });
 
 export const metadata = {
-  title: "Samaritan GPT",
+  title: "Samaritan",
   description: "",
 };
 
